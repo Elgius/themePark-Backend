@@ -1,0 +1,3 @@
+GEt controller:
+
+-> get the events

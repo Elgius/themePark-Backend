@@ -1,0 +1,9 @@
+write models for events
+
+events = {
+    id: auto generated, -> number
+    name: , -> string
+    description: , -> string
+    thumbnail_url: , -> string
+    price: , -> float
+}
